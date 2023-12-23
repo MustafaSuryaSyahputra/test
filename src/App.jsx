@@ -3,7 +3,7 @@ import Banner from './components/Banner.jsx'
 import ListPost from './components/ListPost'
 import Card from './components/Card'
 import Nomor from './components/Nomor'
-import { Header } from './components/header'
+import Header from './components/Header'
 function App() {
 
 

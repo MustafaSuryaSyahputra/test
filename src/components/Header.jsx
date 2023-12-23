@@ -3,7 +3,7 @@ import logo from '../assets/logo.png';
 
 // ...
 
-export const Header = () => {
+const Header = () => {
     const [activeMenu, setActiveMenu] = useState('Ideas');
   
     const handleMenuClick = (menu) => {
@@ -31,3 +31,4 @@ export const Header = () => {
     );
   }
   
+export default Header
